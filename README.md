@@ -6,18 +6,18 @@ Link for dataset: https://www.kaggle.com/datasets/itskindastrange/garbage-classi
 
 Ecosort AI is a project that utilizes a Convolutional Neural Network (CNN) model to classify images into twelve distinct waste material categories. These categories encompass:
 
--Battery
--Biological
--Brown-glass
--Cardboard
--Clothes
--Green-glass
--Metal
--Paper
--Plastic
--Shoes
--Trash
--White-glass
+- Battery
+- Biological
+- Brown-glass
+- Cardboard
+- Clothes
+- Green-glass
+- Metal
+- Paper
+- Plastic
+- Shoes
+- Trash
+- White-glass
 
 The project's primary objective is to streamline and enhance the waste sorting process through automation.
 
