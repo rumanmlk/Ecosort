@@ -54,9 +54,9 @@ The following metrics were obtained during the validation process:
 
 **Future Considerations**
 
--**Improved Model Performance**: Explore hyperparameter tuning, transfer learning from pre-trained models, or incorporating more sophisticated architectures to potentially enhance model accuracy.
--**Real-world Integration**: Develop a system that captures images from a waste sorting system and feeds them into the model for real-time classification and sorting automation.
--**Web Application Development**: Create a web interface that allows users to upload images and receive classifications from the model.
+- **Improved Model Performance**: Explore hyperparameter tuning, transfer learning from pre-trained models, or incorporating more sophisticated architectures to potentially enhance model accuracy.
+- **Real-world Integration**: Develop a system that captures images from a waste sorting system and feeds them into the model for real-time classification and sorting automation.
+- **Web Application Development**: Create a web interface that allows users to upload images and receive classifications from the model.
 
 We recommend referring to the Ecosort AI Project Documentation (this file) for further details and insights into the project.
 
